@@ -1,1 +1,1 @@
-# Laravel Expo Push Notifications
+# Laravel Sms (Mesaj Paneli) Notifications
