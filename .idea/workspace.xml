@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba1c5250-cdee-4f5e-a888-c083899d254f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1egvEe7l2p4ZD0shCDezS4zVJ52" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Messages" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hakan\Desktop\Laravel-Expo-Push-Notifications-master\src\Messages" />
+      <recent name="C:\Users\hakan\Desktop\Laravel-Expo-Push-Notifications-master\src\Channels" />
+      <recent name="C:\Users\hakan\Desktop\Laravel-Expo-Push-Notifications-master\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba1c5250-cdee-4f5e-a888-c083899d254f" name="Default Changelist" comment="" />
+      <created>1594755939707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594755939707</updated>
+      <workItem from="1594755942378" duration="1749000" />
+      <workItem from="1594757957418" duration="4098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="441" key="ComposerInitDialogKey" timestamp="1594761913395">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="416" y="441" key="ComposerInitDialogKey/0.0.2560.1050@0.0.2560.1050" timestamp="1594761913395" />
+    <state x="420" y="283" key="FileChooserDialogImpl" timestamp="1594757692980">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="420" y="283" key="FileChooserDialogImpl/0.0.2560.1050@0.0.2560.1050" timestamp="1594757692980" />
+    <state x="474" y="452" key="NewPhpFileDialog" timestamp="1594762285730">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="474" y="452" key="NewPhpFileDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1594762285730" />
+    <state x="141" y="173" key="SettingsEditor" timestamp="1594761661142">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="141" y="173" key="SettingsEditor/0.0.2560.1050@0.0.2560.1050" timestamp="1594761661142" />
+    <state x="987" y="260" width="585" height="530" key="find.popup" timestamp="1594756372770">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="987" y="260" width="585" height="530" key="find.popup/0.0.2560.1050@0.0.2560.1050" timestamp="1594756372770" />
+    <state x="310" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1594756002866">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="310" y="231" width="672" height="678" key="search.everywhere.popup/0.0.2560.1050@0.0.2560.1050" timestamp="1594756002866" />
+  </component>
+</project>
